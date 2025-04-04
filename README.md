@@ -91,3 +91,10 @@ Key findings from our analysis include:
   Based on our analysis, we suggest tailored strategies that can help stakeholders optimize operations and better engage their target audience.
 
 For a full discussion of our findings, please refer to the *Market Insights & Recommendations.ipynb* notebook.
+
+--- 
+## Team Members
+- Shlok Sangamnerkar
+- Aryan Sahu
+- Moksh Sonigara
+- Malhar Inamdar
