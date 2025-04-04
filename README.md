@@ -4,18 +4,6 @@ Welcome to the Datathon repository for Team Crew4! This project represents our e
 
 # Datathon Project – Team Crew4
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Problem Statement](#problem-statement)
-- [Project Structure](#project-structure)
-- [Data Sources](#data-sources)
-- [Methodology](#methodology)
-- [Results & Insights](#results--insights)
-- [Usage](#usage)
-- [Team & Contact Information](#team--contact-information)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ---
 
 ## Project Overview
@@ -29,18 +17,8 @@ This repository hosts all notebooks, scripts, and documentation detailing our ap
 
 ---
 
-## Problem Statement
-The challenge provided a rich dataset with multiple dimensions, including demographic, transactional, and geospatial information. Our primary objectives were to:
-- Identify key trends and patterns that could influence market dynamics.
-- Analyze geographical variations in the data to uncover region-specific insights.
-- Provide strategic recommendations that stakeholders can use to drive decision-making.
-
----
-
 ## Project Structure
-1. **Data Cleaning & Preprocessing.ipynb:** Outlines the steps to clean and prepare the data.
-2. **Exploratory Data Analysis.ipynb:** Provides visualizations and summary statistics to understand data distributions.
-3. **Statistical Analysis.ipynb:** Contains deeper statistical tests and correlation analysis.
+1. **EDA, Feature engineering and Modelling** Data analysis and visualisation
 4. **Geospatial Analysis.ipynb:** Maps and spatial analysis to explore regional patterns.
 5. **Market Insights & Recommendations.ipynb:** Discusses market trends and offers actionable recommendations.
 
@@ -48,12 +26,6 @@ Feel free to explore each notebook to understand the progression of our analysis
 
 ---
 
-## Data Sources
-The datasets used in this project were sourced from [specify primary data sources, e.g., public datasets, APIs, or provided datathon files]. All data processing steps have been documented in the notebooks to ensure transparency and reproducibility.
-
-*Note: Ensure you have the necessary permissions to use any proprietary data or replace them with publicly available sources if needed.*
-
----
 
 ## Methodology
 Our approach can be summarized in the following steps:
