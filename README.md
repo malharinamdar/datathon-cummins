@@ -66,7 +66,7 @@ For a full discussion of our findings, please refer to the *Market Insights & Re
 
 --- 
 ## Team Members
+- Malhar Inamdar
 - Shlok Sangamnerkar
 - Aryan Sahu
 - Moksh Sonigara
-- Malhar Inamdar
